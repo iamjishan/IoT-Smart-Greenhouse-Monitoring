@@ -101,6 +101,8 @@ This program runs on the ESP8266 Wi-Fi module and performs the following tasks:
 * Wi-Fi and cloud integration
 * Real-time data visualization and analysis
 
+## Video Link : https://drive.google.com/file/d/1qfb-4FIDg2MJUOaHPv96pznBNr53Jz9Y/view?usp=drive_link
+
 ## Author
 **Jishan Bhowmick Aopu** Department of ECE  
 North South University 
